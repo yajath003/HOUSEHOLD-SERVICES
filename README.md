@@ -72,7 +72,6 @@ Each module is structured into three Python files:
 - Service request lifecycle management
 - Admin control dashboard
 - Responsive UI
-- Optional Light/Dark mode
 
 ---
 ## Project is live [HERE](https://household-services-same.onrender.com/).
