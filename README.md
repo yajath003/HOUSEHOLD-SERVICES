@@ -29,7 +29,6 @@ The Household Service Management System is a web platform designed to streamline
 
 Each module is structured into three Python files:
 
-- **Forms** – Handles form input validation using `Flask-WTF`.
 - **Views** – Manages routes and backend logic.
 - **Models** – Defines the database tables and their relationships.
 
